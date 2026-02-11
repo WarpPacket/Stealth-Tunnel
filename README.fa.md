@@ -416,6 +416,21 @@ MIT License — [LICENSE](LICENSE)
 
 ---
 
+## 💝 حمایت از پروژه
+
+اگر این پروژه برای شما مفید بود، در نظر داشته باشید که از توسعه آن حمایت کنید. کمک‌های مالی شما به نگهداری و بهبود StealthTunnel کمک می‌کند.
+
+### ارزهای دیجیتال
+
+| شبکه | آدرس | ارز |
+|:---:|:---|:---|
+| **TRON (TRC20)** | `TXpJ3V46j6oBRiThg8HV98FexoZ5AKB1tc` | TRX |
+| **BSC (BEP20)** | `0x15308d568c8a9884c0f2698beadf8bebf8b0c6f8` | USDT |
+
+> 💡 **از حمایت شما متشکریم!** هر کمک مالی به حفظ رایگان و متن‌باز بودن این پروژه کمک می‌کند.
+
+---
+
 <div align="center">
 
 Made with ❤️ by [WarpPacket](https://github.com/WarpPacket)
